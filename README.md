@@ -1,4 +1,5 @@
 # ByteByteGo-SystemDesign
+URL:https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file
 
 <p>
   <a href="https://blog.bytebytego.com/?utm_source=site"><img src="images/banner.jpg" /> </a>
